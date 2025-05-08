@@ -24,6 +24,9 @@ To run it on your computer, you need this modules:
 
 Just batch rename/search and replace `rename-me` and replace it with your wanted script name.
 
+You can specify dependencies in [dependencies.txt](dependencies.txt) and run the
+`Update dependencies` task. These dependencies must follow the same structure as this template.
+
 And update this README too.
 
 
