@@ -5,7 +5,7 @@
 - normal version: [src/rename-me.py](src/rename-me.py)
 - minified version: [minified/rename-me.py](src/rename-me.py)
 
-You can also get this script on [Numworks](https://my.numworks.com/python/[USERNAME]/rename-me)
+You can also get this script on [Numworks' script library](https://my.numworks.com/python/[USERNAME]/rename-me).
 
 
 ## Dependencies
