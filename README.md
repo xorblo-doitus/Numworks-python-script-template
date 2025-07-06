@@ -25,7 +25,11 @@ To run it on your computer, you need this modules:
 Just batch rename/search and replace `rename-me` and replace it with your wanted script name.
 
 You can specify dependencies in [dependencies.txt](dependencies.txt) and run the
-`Update dependencies` task. These dependencies must follow the same structure as this template.
+`Update dependencies` task. 
+For exemple, you can add the follwing line:
+```https://raw.githubusercontent.com/xorblo-doitus/Numworks-gui/refs/heads/main/src/gui.py```
+These dependencies should follow the same structure as this template, because `src` and `minified`
+will automatically be replaced with their counterpart to download both versions.
 
 And update this README too.
 
@@ -33,3 +37,4 @@ And update this README too.
 ## What does this template provide?
 
 - A task to minify the script
+- A task to download dependencies
