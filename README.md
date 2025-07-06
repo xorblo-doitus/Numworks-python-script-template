@@ -1,4 +1,4 @@
-# Rename-me
+# Numworks Rename-me
 
 `rename-me.py` is a Python script for the Numworks calculator. It... TODO FILL THIS TEMPLATE
 
